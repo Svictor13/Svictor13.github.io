@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my First GitHub Page
+
+Esta primeira página foi criada automaticamente e este texto eu editei diretamente no arquivo README.md
+
+As edições feitas desta forma são apresentadas na aba "Preview Changes" com um código de cores que indicam adições e remoções de conteúdo.
 
 You can use the [editor on GitHub](https://github.com/Svictor13/Svictor13.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
